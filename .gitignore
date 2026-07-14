@@ -1,0 +1,51 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Environment variables
+.env
+*.env
+
+# Database
+*.db
+*.sqlite3
+
+# ML Models (too large for GitHub)
+model_artifacts/*.pkl
+model_artifacts/*.joblib
+
+# Soccerdata cache (scraped data, too large)
+soccerdata_cache/
+
+# Downloaded files
+downloaded_files/
+
+# Node
+node_modules/
+.next/
+frontend/.next/
+frontend/node_modules/
+
+# Misc
+.DS_Store
+Thumbs.db
+debug_cols.py
+*.log
+
+# Alembic
+alembic/versions/__pycache__/
+
+frontend/.env.local
+backend/model_artifacts/*.pkl
+backend/model_artifacts/*.joblib
+_tmp.py
+write_*.py
+package-lock.json

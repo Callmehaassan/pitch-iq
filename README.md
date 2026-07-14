@@ -19,11 +19,11 @@ A full-stack football analytics platform that predicts league standings, simulat
 ![Scout AI](docs/screenshots/scout.png)
 
 ### Transfer Simulator
-![Transfer Simulator](docs/screenshots/transfer.png)
+![Transfer Simulator](docs/screenshots/transfer-simulator.png)
 
 ### UCL Bracket
 ![UCL Bracket](docs/screenshots/ucl.png)
-![UCL Odds](docs/screenshots/ucl-odds.png)
+![UCL Odds](docs/screenshots/predictions-2.png)
 
 ### Home
 ![Home](docs/screenshots/home.png)

@@ -25,9 +25,6 @@ A full-stack football analytics platform that predicts league standings, simulat
 ![UCL Bracket](docs/screenshots/ucl.png)
 ![UCL Odds](docs/screenshots/predictions-2.png)
 
-### Home
-![Home](docs/screenshots/home.png)
-
 ## Features
 
 - **League Predictions** — XGBoost model predicts next season standings for EPL, La Liga, Bundesliga, Serie A, Ligue 1 using 6 seasons of historical data

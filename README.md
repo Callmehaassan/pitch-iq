@@ -5,7 +5,7 @@ A full-stack football analytics platform that predicts league standings, simulat
 ## Screenshots
 
 ### Dashboard
-![Dashboard](docs/screenshots/dashboard.png)
+![Dashboard](docs/screenshots/dashboard.PNG)
 
 ### League Standings & Predictions
 ![Standings](docs/screenshots/standings.png)
